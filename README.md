@@ -95,3 +95,8 @@ Load data from SQL pool tables into Power BI.
 Prepare dashboard in Power BI.
 
 Publish Power BI dashboard in Azure synapse workspace.
+
+**Architecture Diagram**
+
+![image](https://github.com/Linhsmiler47/tokyo-olympic-azure-data-engineering-project/assets/87265344/1f60aabc-b278-407f-a999-9251570bfa58)
+
